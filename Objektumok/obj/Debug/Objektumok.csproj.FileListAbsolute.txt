@@ -1,0 +1,7 @@
+C:\Users\diak\Documents\tijdelijk\tijdelijk_231017\Objektumok\Objektumok\Objektumok\bin\Debug\Objektumok.exe.config
+C:\Users\diak\Documents\tijdelijk\tijdelijk_231017\Objektumok\Objektumok\Objektumok\bin\Debug\Objektumok.exe
+C:\Users\diak\Documents\tijdelijk\tijdelijk_231017\Objektumok\Objektumok\Objektumok\bin\Debug\Objektumok.pdb
+C:\Users\diak\Documents\tijdelijk\tijdelijk_231017\Objektumok\Objektumok\Objektumok\obj\Debug\Objektumok.csproj.AssemblyReference.cache
+C:\Users\diak\Documents\tijdelijk\tijdelijk_231017\Objektumok\Objektumok\Objektumok\obj\Debug\Objektumok.csproj.CoreCompileInputs.cache
+C:\Users\diak\Documents\tijdelijk\tijdelijk_231017\Objektumok\Objektumok\Objektumok\obj\Debug\Objektumok.exe
+C:\Users\diak\Documents\tijdelijk\tijdelijk_231017\Objektumok\Objektumok\Objektumok\obj\Debug\Objektumok.pdb
